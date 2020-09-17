@@ -1,6 +1,7 @@
 # login_registration
 
-A new Flutter project.
+Link for the API part: 
+https://github.com/manoharkhadka1/login-registration-with-laravel-api
 
 ## Getting Started
 
