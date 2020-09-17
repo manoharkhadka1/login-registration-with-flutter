@@ -1,4 +1,4 @@
-# login_registration
+Login Registration with flutter and Laravel 
 
 Link for the API part: 
 https://github.com/manoharkhadka1/login-registration-with-laravel-api
